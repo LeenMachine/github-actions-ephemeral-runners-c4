@@ -64,7 +64,7 @@ The team applied principles from the book *Team Topologies* by Matthew Skelton a
 - Community Manager / Developer Advocate
 
 ### Stream-Aligned Teams (Users)
-**Count**: 50+ engineering teams across organization
+**Count**: 130+ engineering teams across organization
 
 **Characteristics**:
 - Product/feature teams with end-to-end ownership
@@ -122,7 +122,7 @@ The belief that you can speak up, take risks, make mistakes, and ask questions w
 
 ### Results
 
-- **Team Retention**: Zero turnover in 18 months
+- **Team Retention**: Zero turnover in 22 months
 - **Engagement**: 95% team satisfaction in surveys
 - **Innovation**: 40% of platform features originated from team experiments
 - **Psychological Safety Score**: 4.7/5.0 (Google's Project Aristotle benchmark)
@@ -188,7 +188,7 @@ Kanban was chosen over Scrum because:
 ### What We Optimized For
 
 #### Instant Feedback
-- **Fast Starts**: ~5 second warm start (vs 45s cold start)
+- **Fast Starts**: ~5 second warm start (vs 45s-5min cold start)
 - **Real-Time Logs**: Streaming logs from runners
 - **Quick Failures**: Fail fast with clear error messages
 
@@ -305,7 +305,7 @@ The best platforms are built **with** developers, not **for** them. Community en
 
 ### Office Hours
 
-**Schedule**: Every Tuesday and Thursday, 2-3pm
+**Schedule**: Every Monday, 2pm GMT and PST (2 sessions)
 
 **Format**:
 - Drop-in Zoom session
@@ -335,7 +335,7 @@ The best platforms are built **with** developers, not **for** them. Community en
 3. Follow-up survey validates improvements
 
 #### Direct Communication Channels
-- **Slack Channel**: #platform-runners (500+ members)
+- **Slack Channel**: #platform-runners (700+ members)
 - **Email Alias**: platform-team@company.com
 - **GitHub Issues**: Public feature requests
 - **Office Hours**: Twice weekly drop-in
@@ -371,13 +371,13 @@ The best platforms are built **with** developers, not **for** them. Community en
 #### Developer Testimonials
 
 > "This is the first internal platform I've actually *wanted* to use. The team really gets us."  
-> — Senior Engineer, Data Platform Team
+> — Staff Engineer, Data Platform Team
 
 > "The warm start pools changed my life. I used to wait 2 minutes for every test run. Now it's instant."  
-> — Staff Engineer, Core Services
+> — Senior Staff Engineer, Integration Services
 
 > "Platform team actually listens to feedback and acts on it. Every quarter I see my suggestions implemented."  
-> — Engineering Manager, ML Team
+> — Engineering Manager, Platform Services Team
 
 #### Organizational Impact
 
@@ -388,10 +388,10 @@ The best platforms are built **with** developers, not **for** them. Community en
 
 #### Cultural Impact
 
-- **Psychological Safety**: Team retention 100% (18 months)
+- **Psychological Safety**: Team retention 100% (22 months)
 - **Innovation**: 40% of features from team experiments
 - **Knowledge Sharing**: 100+ internal docs created
-- **Community**: 500+ members in Slack channel
+- **Community**: 700+ members in Slack channel
 
 ---
 
@@ -445,6 +445,7 @@ The best platforms are built **with** developers, not **for** them. Community en
 
 ✅ **Prioritize Developer Experience**
 - Ship fewer features with great UX
+- Leverage easy one-step onboarding with templates
 - Invest in polish, error messages, documentation
 
 ✅ **Build Psychological Safety**
@@ -461,6 +462,7 @@ The best platforms are built **with** developers, not **for** them. Community en
 - Developer satisfaction (NPS)
 - Time to value metrics
 - Support ticket trends
+- Developer Perceptual Drivers
 
 ✅ **Use Kanban for Platform Work**
 - Flexible for changing requirements
